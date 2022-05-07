@@ -1,34 +1,13 @@
-# CONFIGURACION BASICA WEBPACK
+# Todo List App
 
-Este repositorio esta creado para mantener un esqueleto base para una aplicación haciendo uso de [webpack 5](https://webpack.js.org/concepts/).
+`Practica` sobre la creacion de una lista de tareas, realizada con `JS vanilla (ES6+)` y haciendo uso de `clases`.
 
-Contiene las configuraciones iniciales para:
+Utilizando el empaquetador `webpack 5` para la generacion de codigo preparada para ser desplegada en `produccion` (ofuscada, minimizada).
 
-- Ambiente de desarrollo y produccion.
-- Minimizacion y ofuscacion de codigo JS y CSS para la build de producción.
-- Plugins para la importacion de archivos CSS u otros documentos (imagenes, pdf, etc.) dentro de archivos JS.
+Desplegada haciendo uso de `github pages` en la siguiente [direccion](https://mavuriel.github.io/todo-js-practica/).
 
-## Inicializacion del proyecto
 
-``` 
-npm install
-```
+*Tutorial por [Fernando Herrrera](https://twitter.com/Fernando_Her85).*
 
-## Iniciar servidor de desarrollo
-
-``` 
-npm run serve
-```
-
-## Build de produccion
-``` 
-npm run build
-```
-
-## Build de desarrollo
-
-``` 
-npm run build:dev
-```
-
+*Plantilla creada por [Sindre Sorhus](https://sindresorhus.com/).*
 
