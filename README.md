@@ -1,6 +1,6 @@
 # Todo List App
 
-`Practica` sobre la creacion de una lista de tareas, realizada con `JS vanilla (ES6+)` y haciendo uso de `clases`.
+`Practica` sobre la creacion de una lista de tareas, realizada con `JS vanilla (ES6+)` y haciendo uso de `clases` y  `local storage` para el almacenamiento de las tareas.
 
 Utilizando el empaquetador `webpack 5` para la generacion de codigo preparada para ser desplegada en `produccion` (ofuscada, minimizada).
 
